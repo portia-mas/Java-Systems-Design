@@ -1,6 +1,6 @@
-package com.rental;
+package system.rental.car;
 
-import com.rental.model.Vehicle;
+import system.rental.car.model.Vehicle;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
